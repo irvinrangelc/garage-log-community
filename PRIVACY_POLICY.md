@@ -175,7 +175,7 @@ If you have any questions, concerns, or requests regarding this Privacy Policy o
 
 **Irvin Gersains Rangel Castro**  
 Developer of GarageLog  
-Email: [INSERT CONTACT EMAIL]
+Email: contact@garage-log.app
 
 We will respond to privacy-related requests within 30 days of receipt.
 
