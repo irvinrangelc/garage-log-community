@@ -240,7 +240,7 @@ If you have any questions about these Terms, please contact us at:
 
 **Irvin Gersains Rangel Castro**  
 Developer of GarageLog  
-Email: [INSERT CONTACT EMAIL]
+Email: contact@garage-log.app
 
 ---
 
